@@ -1,1 +1,1 @@
-This is a new working depository for this Git course
+New text in README file
